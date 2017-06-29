@@ -7,8 +7,8 @@
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="1" />
     <property name="PLUGIN_FILTER" value="vue" />
-    <property name="selected.color.option.type" value="HTML_ATTRIBUTE_NAME" />
-    <property name="ColorChooser.RecentColors" value="8-150-23-255,,,10-150-6-255" />
+    <property name="selected.color.option.type" value="SELECTION_BACKGROUND" />
+    <property name="ColorChooser.RecentColors" value="8-150-23-255,,,10-150-6-255,,,60-117-6-255,,,238-213-153-255,,,88-110-117-255,,,238-227-170-255" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
   </component>
 </application>
